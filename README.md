@@ -86,5 +86,3 @@ If you are using this widget please feel free to add your app to the
 Copyright (c) 2011 [Johan Nilsson](http://markupartist.com)
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-
